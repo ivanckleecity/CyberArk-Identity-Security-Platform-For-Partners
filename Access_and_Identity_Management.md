@@ -26,3 +26,8 @@
     - Organizing your saved items
     - How to access your saved items
     - How to securely share your saved items 
+
+## CyberArk Identity Flow
+ - Identity Flows is an identity orchestration tool that eliminates manual tasks and processes with the creation of automated workflows. Identity Flows offers a low-code visual editor, drag-and-drop interface with pre-built and custom connectors allowing you to connect to external applications. This enables organizations to:
+
+
