@@ -15,7 +15,7 @@
     - Testing tips
     - Best practices and additional resources
 
-  - [Introduction to WPM for Users](https://www.youtube.com/watch?v=JXLk6syGLtQ)
+  - [Introduction to WPM for Users - Video Demo](https://www.youtube.com/watch?v=JXLk6syGLtQ)
     - Introduction
     - How to install the CyberArk Identity Browser Extension
     - Disable the password manager on your browser
