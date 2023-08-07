@@ -15,4 +15,14 @@
     - Testing tips
     - Best practices and additional resources
 
-  - [How to enable CyberArk SWS only for a specific Okta group - Video Demo](https://www.youtube.com/watch?v=QjGK6EScX8k)
+  - [Introduction to WPM for Users](https://www.youtube.com/watch?v=JXLk6syGLtQ)
+    - Introduction
+    - How to install the CyberArk Identity Browser Extension
+    - Disable the password manager on your browser
+    - How to log in
+    - How to add passwords and secured items
+    - Adding an OTP token into CyberArk
+    - Importing from previous password manager
+    - Organizing your saved items
+    - How to access your saved items
+    - How to securely share your saved items 
