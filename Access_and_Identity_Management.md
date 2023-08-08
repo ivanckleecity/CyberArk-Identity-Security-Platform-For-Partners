@@ -1,3 +1,3 @@
-## [CyberArk Workforce Password Management](Workforce_Password_Management.md)
+## [CyberArk Workforce Password Management](Workforce_Password_Management)
 
-## [CyberArk Identity Flow](Identity_Flow.md)
+## [CyberArk Identity Flow](Identity_Flow)
