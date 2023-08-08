@@ -16,5 +16,3 @@ Useful Links
 - [CyberArk Product Docs](https://docs.cyberark.com/)
 - [CyberArk Community](https://cyberark-customers.force.com/s/)
 - [CyberArk Marketplace](https://cyberark-customers.force.com/mplace/s/)
-
-# Test
