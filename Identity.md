@@ -1,1 +1,1 @@
-## [Access and Identity Management](External_Identity_Provider.md)
+## [External Identtiy Provider Integration](External_Identity_Provider.md)
