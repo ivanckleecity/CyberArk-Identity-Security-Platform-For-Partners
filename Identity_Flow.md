@@ -4,4 +4,4 @@
    - Eliminate security risks posed by privilege creep, orphaned accounts and provisioning mishaps
    - Enable security controls of user access to strengthen response to potential attacks
 
- - [CyberArk Identity Flows - Demo Video](https://www.youtube.com/watch?v=02KdQV5LeHM)
+ - [Demo Viddo - CyberArk Identity Flows](https://www.youtube.com/watch?v=02KdQV5LeHM)
