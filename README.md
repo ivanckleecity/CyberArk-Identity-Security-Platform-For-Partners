@@ -9,7 +9,8 @@ This repository is including CyberArk Identity Security Platform
 - Endpoint Privilege Security
 - Cloud Security
 
-### [Access and Identity Management](Access_and_Identity_Management.md)
+## [Access and Identity Management](Access_and_Identity_Management.md)
+## [Privileged Access Management](Privileged_Access_Management.md)
 
 Useful Links
 - [CyberArk Website](https://www.cyberark.com/)
