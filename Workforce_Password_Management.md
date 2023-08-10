@@ -4,8 +4,8 @@
     - Users' non-web app secrets (Secured Items)
   - [Online Doc](https://docs.cyberark.com/Product-Doc/OnlineHelp/Idaptive/Latest/en/Content/SecureStorage/SecureStorage.htm)
  
-  - [Workforce Password Management (WPM) Demo - Video Demo](https://www.youtube.com/watch?v=f6fC4_F-JGE)
-  - [Getting Started with CyberArk WPM for Administrators - Video Demo](https://www.youtube.com/watch?v=RHIvP3Rlwss)
+  - [Demo Video - Workforce Password Management (WPM) Demo](https://www.youtube.com/watch?v=f6fC4_F-JGE)
+  - [Setup Video - Getting Started with CyberArk WPM for Administrators](https://www.youtube.com/watch?v=RHIvP3Rlwss)
     - Introduction
     - Requirements and what we will configure today
     - Accessing CyberArk Identity Portal
@@ -15,7 +15,7 @@
     - Testing tips
     - Best practices and additional resources
 
-  - [Introduction to WPM for Users - Video Demo](https://www.youtube.com/watch?v=JXLk6syGLtQ)
+  - [Setup Videos - Introduction to WPM for Users](https://www.youtube.com/watch?v=JXLk6syGLtQ)
     - Introduction
     - How to install the CyberArk Identity Browser Extension
     - Disable the password manager on your browser
