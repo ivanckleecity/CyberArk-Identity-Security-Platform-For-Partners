@@ -1,4 +1,4 @@
-## [Identity](Identity.md)
+## [Workforce Identity](Identity.md)
 
 ## [CyberArk Workforce Password Management](Workforce_Password_Management.md)
 
