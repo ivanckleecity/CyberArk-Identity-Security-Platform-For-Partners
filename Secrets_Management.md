@@ -17,4 +17,6 @@ CI/CD requires a fresh approach to security — a centralized approach that unif
 - Automatically rotating secrets and privileged access credentials regularly or on demand.
 - Monitoring and tracking privileged access activity for both administrators and automated users.
 - Employing multi-factor authentication (MFA) to prevent sensitive scripts from running automatically and forcing human intervention to review or approve actions like pushing commits to Git
-- This demo focus on securing CI/CD pipeline.   It aims to provide 2 scenarios: one CI/CD pipeline with hardcoded secrets, and the one is secreted by Conjur
+
+[Demo video - Securing CI/CD pipeline](https://www.youtube.com/watch?v=8mUijkxvi-4)
+- This demo video aims to provide 2 scenarios: one CI/CD pipeline with hardcoded secrets, and the one is secreted by Conjur
