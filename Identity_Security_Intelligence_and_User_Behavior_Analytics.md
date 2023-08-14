@@ -9,5 +9,5 @@
    - ISI detects and creates alerts for User Behavior Analytics (UBA) events and Privileged Detection events.
  - [Online Doc](https://docs.cyberark.com/ISI/Latest/en/Content/ISI/What-is-ISI.htm)
  - [Demo and Setup Video](https://www.youtube.com/watch?v=I8mdIcfiQds)
-   - [Demo Video - Adaptive MFA and Geo-Velocity](https://www.youtube.com/watch?v=urzmV_A1x7E&t=0s)
-   - [Demo Video - Integrating with Slack for alerting](https://www.youtube.com/watch?v=n-JbKLO_DVU&t=0s)
+   - [Demo and Setup Video - Adaptive MFA and Geo-Velocity](https://www.youtube.com/watch?v=urzmV_A1x7E&t=0s)
+   - [Demo and Setup Video - Integrating with Slack for alerting](https://www.youtube.com/watch?v=n-JbKLO_DVU&t=0s)
