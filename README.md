@@ -8,11 +8,13 @@ This repository is including CyberArk Identity Security Platform
 - Privileged Access Management
 - Endpoint Privilege Security
 - Cloud Security
+- Identity Security Intelligence (User Behavior Analytics)
 
 ## [Access and Identity Management](Access_and_Identity_Management.md)
 ## [Privileged Access Management](Privileged_Access_Management.md)
 ## [Secrets Management](/Secrets_Management.md)
 ## [Endpoint Privilege Security](Endpoint_Privilege_Security.md)
+## [Identity Security Intelligence (User Behavior Analytics)](Identity_Security_Intelligence_and_User_Behavior_Analytics.md)
 
 Useful Links
 - [CyberArk Website](https://www.cyberark.com/)
