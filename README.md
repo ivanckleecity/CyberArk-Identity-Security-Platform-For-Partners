@@ -12,7 +12,7 @@ This repository is including CyberArk Identity Security Platform
 ## [Access and Identity Management](Access_and_Identity_Management.md)
 ## [Privileged Access Management](Privileged_Access_Management.md)
 ## [Secrets Management](/Secrets_Management.md)
-## [Endpoint_Privilege_Security](Endpoint_Privilege_Security.md)
+## [Endpoint Privilege Security](Endpoint_Privilege_Security.md)
 
 Useful Links
 - [CyberArk Website](https://www.cyberark.com/)
