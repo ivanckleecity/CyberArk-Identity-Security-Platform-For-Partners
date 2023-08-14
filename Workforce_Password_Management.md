@@ -1,4 +1,4 @@
-## CyberArk Workforce Password Management
+## CyberArk Workforce Password Management and Secure Iteam
  - In CyberArk Workforce Password Management, you can configure CyberArk Identity to store your own business, personal secrets and business-related application credentials to CyberArk Identity or the CyberArk PAM Self-Hosted.
     - Users' business / personal application credentials
     - Users' non-web app secrets (Secured Items)
@@ -26,3 +26,8 @@
     - Organizing your saved items
     - How to access your saved items
     - How to securely share your saved items 
+
+## CyberArk Secure Iteam
+ - CyberArk Identity stores the following types of Secured Items. Credentials for non-web apps. Credentials or secrets for uses other than application access. For example: app licenses, access tokens, encryption keys, and security questions
+ - [Online Doc](https://docs.cyberark.com/Idaptive/Latest/en/Content/SecureStorage/Manage-Secured-Items.htm)
+ - [Demo and How to use Video](https://www.youtube.com/watch?v=9dc3spBv3Lo)
